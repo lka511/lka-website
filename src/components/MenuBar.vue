@@ -25,7 +25,10 @@ export default {
 
 <style scoped>
 .p-menubar ul{
-  margin: 0 auto 0 auto;
+  margin: 0 auto;
+}
+.p-menubar-root-list{
+  margin: 0 auto;
 }
 </style>
 
