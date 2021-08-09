@@ -46,9 +46,6 @@ p{
 .pseudo-menu{
   height: 90px;
 }
-.p-menubar ul{
-  margin: 0 auto 0 auto;
-}
 .p-menubar-button{
   margin: 0 auto 0 auto;
 }
