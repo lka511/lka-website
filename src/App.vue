@@ -40,8 +40,11 @@ p{
   height: 90px;
   z-index: 999;
   padding: 0;
-  margin: 0 auto !important;
+  margin: 0;
   top: 0px;
+}
+.p-menubar ul{
+  margin: 0 auto;
 }
 .pseudo-menu{
   height: 90px;
