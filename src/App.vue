@@ -40,7 +40,7 @@ p{
   height: 90px;
   z-index: 999;
   padding: 0;
-  margin: 0 auto 0 auto;
+  margin: 0 auto !important;
   top: 0px;
 }
 .pseudo-menu{
