@@ -47,10 +47,10 @@ p{
   height: 90px;
 }
 .p-menubar ul{
-  margin: 0 auto;
+  margin: 0 auto 0 auto;
 }
 .p-menubar-button{
-  margin: 0 auto;
+  margin: 0 auto 0 auto;
 }
 .active-nav-item{
   border-bottom: 1px dashed #a7a6a6;

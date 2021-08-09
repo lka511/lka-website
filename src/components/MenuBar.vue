@@ -20,10 +20,6 @@ export default {
     }
   }
 }
-
-/* Todo
-1. Active menu item underline? active-menu-item
-*/
 </script>
 
 

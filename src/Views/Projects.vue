@@ -18,7 +18,6 @@
 import PageTitle from "../components/PageTitle";
 import ProjectCard from "../components/ProjectCard";
 
-
 export default {
   name: 'Competitions',
   components: {
@@ -108,11 +107,6 @@ export default {
     }
   }
 }
-
-/*
-todo
-1.
- */
 </script>
 
 <style scoped>

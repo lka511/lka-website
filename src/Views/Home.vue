@@ -8,9 +8,6 @@
     <p>In addition to my study, I have shorn sheep as a job for 3 summers, I am always looking for ways to capture and analyse data related to my work, hence a lot of my projects featured within this portfolio are related to the shearing and agricultural industry.</p>
     <p>Take a look around, this is my compilation of projects that showcase some of my skills and interests.</p>
   </Fieldset>
-
-
-
 </template>
 
 <script>
